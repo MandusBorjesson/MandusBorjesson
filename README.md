@@ -1,4 +1,5 @@
-[![My Badge](https://images.credly.com/size/140x140/images/a77b7f85-70b0-42ab-9519-67ee509fbc0c/image.png)](https://www.credly.com/badges/8e38ea0a-5fa3-4c9a-9d41-ae5e48ad3fff/public_url)
+[![Zephyr](https://images.credly.com/size/140x140/images/a77b7f85-70b0-42ab-9519-67ee509fbc0c/image.png)](https://www.credly.com/badges/8e38ea0a-5fa3-4c9a-9d41-ae5e48ad3fff/public_url)
+[![Hardwear.io](images/hardwear_io.png)](https://verification.givemycertificate.com/v/ea45b8c3-8d76-4650-8b5b-cfdf58adea21)
 
 - 👋 Hi, I’m @MandusBorjesson
 - 👀 I’m interested in Electronics, Embedded software and any other forms of dark magic
